@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching RBW5 (FG)","Watching (FG)","Watching (FG)","Watching (FG)","Watching RBW5 (FG)"];
+const statusMessages = ["Watching rainyshub.site","Watching rainyshub.site","Watching rainyshub.site","Watching rainyshub.site","Watching rainyshub.site"];
 
 
 let currentIndex = 0;
